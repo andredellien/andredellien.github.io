@@ -4,9 +4,6 @@
 	box-sizing: border-box;
 }
 
-html {
-}
-
 .contenedor {
 	display: flex;
 	justify-content: center;
