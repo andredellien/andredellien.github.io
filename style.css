@@ -48,3 +48,15 @@ html {
 	gap: 2rem;
 	padding: 2.5rem;
 }
+.footer-container {
+	display: flex;
+	justify-content: center;
+}
+.footer {
+	display: flex;
+	justify-content: center;
+	background-color: rgba(66, 41, 190, 0.749);
+	width: 70%;
+	padding: 1rem;
+	color: white;
+}
