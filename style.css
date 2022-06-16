@@ -20,6 +20,7 @@ html {
 	align-items: flex-start;
 	border: 2px solid rgb(215, 211, 211);
 	width: 70vw;
+	background-color: whitesmoke;
 }
 .header-container {
 	display: flex;
@@ -66,4 +67,9 @@ html {
 	width: 70%;
 	padding: 1rem;
 	color: white;
+}
+.body-container {
+	background-color: rgb(31, 29, 31);
+	width: 100vw;
+	height: 100vh;
 }
