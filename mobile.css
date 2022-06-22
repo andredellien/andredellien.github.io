@@ -9,6 +9,10 @@ html {
 		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+body {
+    min-width: 260px;
+}
+
 .contenedor {
 	display: flex;
 	justify-content: center;
@@ -42,7 +46,7 @@ html {
 }
 
 .header p {
-	display:flex;
+    display: none;
 }
 
 .content--cabecera h1 {
